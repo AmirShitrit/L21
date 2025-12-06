@@ -20,3 +20,6 @@ encapsulate the splitting logic in a separate function in a new file and import 
 
 ## Prompt 7
 In a new file, write a function that trains a classification model, based on the 3 groups of irises, using Naive Bayes with ONLY NumPy.
+
+## Prompt 8
+In a new file, write a function that does the same training, but this time, using SKLearn.
