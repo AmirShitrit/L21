@@ -23,3 +23,6 @@ In a new file, write a function that trains a classification model, based on the
 
 ## Prompt 8
 In a new file, write a function that does the same training, but this time, using SKLearn.
+
+## Prompt 9
+In a new file, write a function that accepts the testing data group and the model (be it using NumPy or SKLearn) as two parameters, and tests the model against the testing data.
