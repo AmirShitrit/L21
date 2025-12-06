@@ -17,3 +17,6 @@ The splitting should be random. no external library needed.
 
 ## Prompt 6
 encapsulate the splitting logic in a separate function in a new file and import it into the main @split_iris.py file. Then rename the main file to main.py.
+
+## Prompt 7
+In a new file, write a function that trains a classification model, based on the 3 groups of irises, using Naive Bayes with ONLY NumPy.
