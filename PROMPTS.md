@@ -14,3 +14,6 @@ why did you import sklearn?
 
 ## Prompt 5
 The splitting should be random. no external library needed.
+
+## Prompt 6
+encapsulate the splitting logic in a separate function in a new file and import it into the main @split_iris.py file. Then rename the main file to main.py.
