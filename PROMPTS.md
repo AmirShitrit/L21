@@ -26,3 +26,9 @@ In a new file, write a function that does the same training, but this time, usin
 
 ## Prompt 9
 In a new file, write a function that accepts the testing data group and the model (be it using NumPy or SKLearn) as two parameters, and tests the model against the testing data.
+
+## Prompt 10
+In the main file, run the two classification versions, evaluate each one. Then compare their evaluations and visualize it. The visualization code should reside in a separate function in a new file.
+
+## Prompt 11
+Generate a README.md file, including a full explanation of the process and including the visualization files.
